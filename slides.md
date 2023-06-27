@@ -194,6 +194,6 @@ sparkImpl = ...
 
 ## Contact
 
-Michael Whitehead
+<img src="my_linkedin_qr_code.jpeg" height="300">
 
 whitehead@onepunchtech.xyz
